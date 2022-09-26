@@ -1,7 +1,11 @@
 # Traffic-Spirit
+
+![](http://www.ipts.com/images/logo.png)
+
 Traffic Spirit is a software to promote Website mainly for WebMaster,Web Store,Twitter,Facebook,Blog to rapidly improve traffic(IP,PV,UV）
 
 Please follow steps below in order to use Spirit:
+
 1、Close security software: Close security software in the PC to prevent erroneously deletion after Spirit downloaded.
 
 2、Download Traffic Spirit: Click Button, [download](http://dl.ipts.com/v5/ipts_346003.7z) Traffic Spirit to the PC.
@@ -13,5 +17,7 @@ Please follow steps below in order to use Spirit:
 ![](http://www.ipts.com/images/file.png)
 
 5、Run Traffic Spirit:Double click Spirit and use.
+
+![](http://www.ipts.com/images/banner.png)
 
 FAQ:[Why Spirit detected as virus?](http://www.ipts.com/aq2014082602.php)
