@@ -14,4 +14,4 @@ Please follow steps below in order to use Spirit:
 
 5、Run Traffic Spirit:Double click Spirit and use.
 
-FAQ:(http://www.ipts.com/aq2014082602.php)[Why Spirit detected as virus?]
+FAQ:[Why Spirit detected as virus?](http://www.ipts.com/aq2014082602.php)
